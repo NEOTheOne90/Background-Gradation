@@ -1,5 +1,7 @@
-🚀 Background-Gradation🚀
+# 🚀BackgroundGenerator🚀
 
-기초 HTML <br>
-기초 CSS <br>
-기초 Javascript
++ 기초 HTML
++ 기초 CSS
++ 기초 Javascript
+
+[링크](https://jbkim08.github.io/Background-Generator/)
